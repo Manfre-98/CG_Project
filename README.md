@@ -1,1 +1,1 @@
-# Exam project for the Computer Graphics Fundamentals course
+Exam project for the fundamentals of computer graphics course
